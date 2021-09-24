@@ -27,8 +27,7 @@ int main()
 			}
 			i++;
 		}
-		i = i - 1;
-		for (; i >= 0; i--)
+		for (i = i - 1; i >= 0; i--)
 			printf("%d", mass[i]);
 	}
 	return 0;
