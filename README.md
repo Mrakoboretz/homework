@@ -1,2 +1,2 @@
 # homework
-Nu chto poprobuem
+Домашнее задание №1, вариант №1
